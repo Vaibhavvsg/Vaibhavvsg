@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vaibhavvsg
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on codr
+- 💞️ I’m looking to collaborate on code
 - 📫 How to reach me via email
 
 <!---
